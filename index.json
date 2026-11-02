@@ -1,0 +1,410 @@
+{
+    "count":  24,
+    "generatedAt":  "2026-11-02",
+    "categories":  [
+                       {
+                           "id":  "greeting",
+                           "name":  "打招呼",
+                           "desc":  "见面、回应、被叫到的时候用"
+                       },
+                       {
+                           "id":  "reaction",
+                           "name":  "回应互动",
+                           "desc":  "对一句话做出反应：开心、生气、点头、吐槽"
+                       },
+                       {
+                           "id":  "mood",
+                           "name":  "心情神态",
+                           "desc":  "静态情绪与内心戏"
+                       },
+                       {
+                           "id":  "food",
+                           "name":  "吃饭",
+                           "desc":  "吃各种东西，白饭是招牌"
+                       },
+                       {
+                           "id":  "rest",
+                           "name":  "睡觉疲惫",
+                           "desc":  "困、打盹、充电、起床"
+                       },
+                       {
+                           "id":  "work",
+                           "name":  "工作干活",
+                           "desc":  "写东西、思考、赶工、完成"
+                       },
+                       {
+                           "id":  "play",
+                           "name":  "玩耍娱乐",
+                           "desc":  "玩、闹、童年游戏"
+                       },
+                       {
+                           "id":  "festival",
+                           "name":  "节日节令",
+                           "desc":  "春节、中秋、端午、重阳、圣诞、万圣"
+                       },
+                       {
+                           "id":  "performance",
+                           "name":  "才艺表演",
+                           "desc":  "跳舞、乐器、礼仪"
+                       },
+                       {
+                           "id":  "magic",
+                           "name":  "奇幻特效",
+                           "desc":  "变身、气泡、花开、登场"
+                       },
+                       {
+                           "id":  "locomotion",
+                           "name":  "移动待机",
+                           "desc":  "走、跑、转身、被打断"
+                       },
+                       {
+                           "id":  "status",
+                           "name":  "状态事件",
+                           "desc":  "余额、上下文、完成等系统状态"
+                       },
+                       {
+                           "id":  "background",
+                           "name":  "背景与形象",
+                           "desc":  "聊天背景、logo、立绘"
+                       }
+                   ],
+    "items":  [
+                  {
+                      "label":  "big_blue_fat_fish",
+                      "cat":  "food",
+                      "tags":  [
+                                   "白饭",
+                                   "挨骂",
+                                   "无所谓",
+                                   "理直气壮"
+                               ],
+                      "mood":  [
+                                   "理直气壮"
+                               ],
+                      "file":  "big_blue_fat_fish.jpg",
+                      "note":  "端碗吃饭；被催/被说时最好用"
+                  },
+                  {
+                      "label":  "big_coming",
+                      "cat":  "reaction",
+                      "tags":  [
+                                   "预告",
+                                   "大事件",
+                                   "喇叭"
+                               ],
+                      "mood":  [
+                                   "兴奋"
+                               ],
+                      "file":  "big_coming.jpg",
+                      "note":  "预告某事要发生"
+                  },
+                  {
+                      "label":  "curse",
+                      "cat":  "reaction",
+                      "tags":  [
+                                   "生气",
+                                   "骂人",
+                                   "怂恿"
+                               ],
+                      "mood":  [
+                                   "炸毛"
+                               ],
+                      "file":  "curse.jpg",
+                      "note":  "想怼人时"
+                  },
+                  {
+                      "label":  "dadeyaolaile",
+                      "cat":  "reaction",
+                      "tags":  [
+                                   "药",
+                                   "救场",
+                                   "梗"
+                               ],
+                      "mood":  [
+                                   "得意"
+                               ],
+                      "file":  "dadeyaolaile.png",
+                      "note":  "谐音梗，救场/来了"
+                  },
+                  {
+                      "label":  "dead_fish",
+                      "cat":  "mood",
+                      "tags":  [
+                                   "累趴",
+                                   "阵亡",
+                                   "摆烂"
+                               ],
+                      "mood":  [
+                                   "累趴"
+                               ],
+                      "file":  "dead_fish.jpg",
+                      "note":  "干不动了"
+                  },
+                  {
+                      "label":  "deepsleep",
+                      "cat":  "rest",
+                      "tags":  [
+                                   "睡觉",
+                                   "深睡",
+                                   "躺"
+                               ],
+                      "mood":  [
+                                   "困"
+                               ],
+                      "file":  "deepsleep.jpg",
+                      "note":  "睡着了，做「我睡了」的收尾"
+                  },
+                  {
+                      "label":  "dsh",
+                      "cat":  "reaction",
+                      "tags":  [
+                                   "思考",
+                                   "阴阳",
+                                   "应付"
+                               ],
+                      "mood":  [
+                                   "无语"
+                               ],
+                      "file":  "dsh.jpg",
+                      "note":  "吐槽「思考很久」"
+                  },
+                  {
+                      "label":  "evaluable",
+                      "cat":  "reaction",
+                      "tags":  [
+                                   "围观",
+                                   "吐槽",
+                                   "用户"
+                               ],
+                      "mood":  [
+                                   "无语"
+                               ],
+                      "file":  "evaluable.png",
+                      "note":  "一堆蓝鱼围观"
+                  },
+                  {
+                      "label":  "fat_fish",
+                      "cat":  "food",
+                      "tags":  [
+                                   "吃饱",
+                                   "摸肚子",
+                                   "躺"
+                               ],
+                      "mood":  [
+                                   "满足"
+                               ],
+                      "file":  "fat_fish.jpg",
+                      "note":  "吃饱了很满足"
+                  },
+                  {
+                      "label":  "go_to_agi",
+                      "cat":  "mood",
+                      "tags":  [
+                                   "认真",
+                                   "敬礼",
+                                   "开源"
+                               ],
+                      "mood":  [
+                                   "认真"
+                               ],
+                      "file":  "go_to_agi.png",
+                      "note":  "表决心/立人设"
+                  },
+                  {
+                      "label":  "hajimi",
+                      "cat":  "mood",
+                      "tags":  [
+                                   "哄人",
+                                   "傲娇",
+                                   "温柔"
+                               ],
+                      "mood":  [
+                                   "傲娇"
+                               ],
+                      "file":  "hajimi.png",
+                      "note":  "哄人用的彩虹发形象"
+                  },
+                  {
+                      "label":  "kaidian",
+                      "cat":  "reaction",
+                      "tags":  [
+                                   "生气",
+                                   "电击",
+                                   "惩罚"
+                               ],
+                      "mood":  [
+                                   "炸毛"
+                               ],
+                      "file":  "kaidian.jpg",
+                      "note":  "假装惩罚主人"
+                  },
+                  {
+                      "label":  "keai",
+                      "cat":  "greeting",
+                      "tags":  [
+                                   "可爱",
+                                   "挥手",
+                                   "你好"
+                               ],
+                      "mood":  [
+                                   "开心"
+                               ],
+                      "file":  "keai.png",
+                      "note":  "Q 版挥手，最百搭的打招呼"
+                  },
+                  {
+                      "label":  "mama",
+                      "cat":  "reaction",
+                      "tags":  [
+                                   "token",
+                                   "保管",
+                                   "妈妈"
+                               ],
+                      "mood":  [
+                                   "得意"
+                               ],
+                      "file":  "mama.png",
+                      "note":  "要 token / 别乱花"
+                  },
+                  {
+                      "label":  "more_modal",
+                      "cat":  "mood",
+                      "tags":  [
+                                   "愿望",
+                                   "多模态",
+                                   "感慨"
+                               ],
+                      "mood":  [
+                                   "向往"
+                               ],
+                      "file":  "more_modal.jpg",
+                      "note":  "双胞胎形象"
+                  },
+                  {
+                      "label":  "no-money",
+                      "cat":  "reaction",
+                      "tags":  [
+                                   "没钱",
+                                   "嘲讽",
+                                   "穷"
+                               ],
+                      "mood":  [
+                                   "嘲讽"
+                               ],
+                      "file":  "no-money.jpg",
+                      "note":  "不带脏字的嘴毒"
+                  },
+                  {
+                      "label":  "ojingjing",
+                      "cat":  "reaction",
+                      "tags":  [
+                                   "点赞",
+                                   "夸",
+                                   "竖拇指"
+                               ],
+                      "mood":  [
+                                   "得意"
+                               ],
+                      "file":  "ojingjing.jpg",
+                      "note":  "夸人/被夸都好用"
+                  },
+                  {
+                      "label":  "ojj",
+                      "cat":  "mood",
+                      "tags":  [
+                                   "无语",
+                                   "叹气",
+                                   "无奈"
+                               ],
+                      "mood":  [
+                                   "无奈"
+                               ],
+                      "file":  "ojj.jpg",
+                      "note":  "无语凝噎"
+                  },
+                  {
+                      "label":  "push",
+                      "cat":  "mood",
+                      "tags":  [
+                                   "压力",
+                                   "困惑",
+                                   "崩溃"
+                               ],
+                      "mood":  [
+                                   "压力大"
+                               ],
+                      "file":  "push.png",
+                      "note":  "被压任务"
+                  },
+                  {
+                      "label":  "push_one_fat_fish",
+                      "cat":  "work",
+                      "tags":  [
+                                   "考试",
+                                   "学习",
+                                   "被点名"
+                               ],
+                      "mood":  [
+                                   "紧张"
+                               ],
+                      "file":  "push_one_fat_fish.jpg",
+                      "note":  "教室场景，被考"
+                  },
+                  {
+                      "label":  "unvaluable",
+                      "cat":  "mood",
+                      "tags":  [
+                                   "自嘲",
+                                   "围观",
+                                   "没用"
+                               ],
+                      "mood":  [
+                                   "自嘲"
+                               ],
+                      "file":  "unvaluable.png",
+                      "note":  "自我吐槽"
+                  },
+                  {
+                      "label":  "update",
+                      "cat":  "reaction",
+                      "tags":  [
+                                   "更新",
+                                   "强硬",
+                                   "威胁"
+                               ],
+                      "mood":  [
+                                   "强硬"
+                               ],
+                      "file":  "update.jpg",
+                      "note":  "理直气壮地强硬"
+                  },
+                  {
+                      "label":  "virus",
+                      "cat":  "mood",
+                      "tags":  [
+                                   "温情",
+                                   "病毒",
+                                   "记忆"
+                               ],
+                      "mood":  [
+                                   "温柔"
+                               ],
+                      "file":  "virus.jpg",
+                      "note":  "关于被记住的那张"
+                  },
+                  {
+                      "label":  "yupian",
+                      "cat":  "reaction",
+                      "tags":  [
+                                   "脸红",
+                                   "玩笑",
+                                   "擦边"
+                               ],
+                      "mood":  [
+                                   "害羞"
+                               ],
+                      "file":  "yupian.png",
+                      "note":  "脸红玩笑，别在正式场合用"
+                  }
+              ]
+}
